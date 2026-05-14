@@ -9,3 +9,4 @@ Projeto de identidade visual desenvolvido como marca pessoal.
 
 ## Objetivo
 Desenvolver uma identidade visual moderna e versátil para apresentação profissional e portfólio.
+
